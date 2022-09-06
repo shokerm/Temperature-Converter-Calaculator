@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Anton&family=Fredoka+One&family=Secular+One&family=Signika+Negative:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Anton&family=Fredoka+One&family=Oswald:wght@200;400&family=Secular+One&family=Signika+Negative:wght@300&display=swap');
+html,
+
+body{
+    font-family: 'Oswald',sans-serif;
+    font-size: 62.5%;
+    color: white;
+    background-image: url(./Images/pexels-pixabay-531767.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    
+   
+   
+}
+.container{
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 5rem;
+    width: fit-content;
+    line-height: 3.5rem;
+    border-radius: 20%;
+    background-color: rgb(92 15 92);
+}
+   
+input{
+    text-align: center;
+}
+output{
+    color: #30cac4;
+    font-weight: bold;
+}
+p{
+    margin: 0;
+}
+span{
+  margin: 0.5rem;
+}
+h2{
+    font-family: 'Fredoka One',sans-serif;
+   
+}
+
